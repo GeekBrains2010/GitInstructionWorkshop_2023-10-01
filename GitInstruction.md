@@ -8,6 +8,16 @@
 
 ## Установка git и VSCode на ваш ПК.
 
+1. Download from the official [site](https://git-scm.com/download/win)
+
+2. Install on PC
+
+3. Set initial configuration: 
+   
+    * git config --global user.name "YourName"
+    * git config --global user.email 'your_email@example.com'
+
+
 ### Установка VSCode на ваш ПК.
 
 ### Установка git на ваш ПК
