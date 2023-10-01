@@ -14,6 +14,8 @@
 
 ### Установка git на ваш ПК
 
+Загружаем git по ссылке: https://sourceforge.net/projects/git-osx-installer/files/git-2.33.0-intel-universal-mavericks.dmg/download?use_mirror=autoselect
+
 #### Первая настройка git
 
 ## Создание и базовая работа с локальным репозиторием.
