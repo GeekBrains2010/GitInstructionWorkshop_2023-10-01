@@ -55,3 +55,5 @@ https://tproger.ru/books/4-books-about-vcs
 
 # Apache Subversion (SVN)
 
+Subversion - это система контроля версий с открытым исходным кодом. Основанный в 2000 году компанией CollabNet, Inc.
+
