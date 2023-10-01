@@ -8,6 +8,10 @@
 
 ## Установка git и VSCode на ваш ПК.
 
+Загрузить последнюю версию с сайта <https://git-scm.com/>
+
+Загрузить VSCode с сайта <https://code.visualstudio.com/>
+
 ### Установка VSCode на ваш ПК.
 
 ### Установка git на ваш ПК
