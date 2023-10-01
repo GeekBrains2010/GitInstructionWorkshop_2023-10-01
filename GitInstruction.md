@@ -45,6 +45,13 @@
 
 ## Книги и полезные ссылки по изучению git.
 
+* Git Magic, written by Ben Lynn
+* Pro Git book, written by Scott Chacon and Ben Straub
+* Mercurial: The Definitive Guide, written by Bryan O'Sullivan
+* Version Control with Subversion, written by Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
+
+https://tproger.ru/books/4-books-about-vcs
+
 ## Альтернативные системы контроля версий.
 * Subversion
 * AWS CodeCommit
@@ -55,4 +62,6 @@
 # Система одновременных версий (CVS)
 
 # Apache Subversion (SVN)
+
+Subversion - это система контроля версий с открытым исходным кодом. Основанный в 2000 году компанией CollabNet, Inc.
 
